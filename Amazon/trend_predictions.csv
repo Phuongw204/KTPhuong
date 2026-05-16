@@ -1,0 +1,31 @@
+﻿product_category,forecast_month,predicted_reviews,predicted_ratings,predicted_products
+Beauty,2026-05,46,4.05,48
+Beauty,2026-06,15,4.06,25
+Beauty,2026-07,10,4.07,5
+Beauty,2026-08,10,4.08,5
+Beauty,2026-09,10,4.08,5
+Beauty,2026-10,10,4.09,5
+Handmade,2026-05,309,4.48,265
+Handmade,2026-06,260,4.49,230
+Handmade,2026-07,202,4.5,190
+Handmade,2026-08,136,4.51,144
+Handmade,2026-09,62,4.52,93
+Handmade,2026-10,10,4.53,35
+Health And Personal,2026-05,126,4.04,108
+Health And Personal,2026-06,84,4.05,73
+Health And Personal,2026-07,39,4.06,35
+Health And Personal,2026-08,10,4.07,5
+Health And Personal,2026-09,10,4.08,5
+Health And Personal,2026-10,10,4.09,5
+Software,2026-05,10,3.78,5
+Software,2026-06,10,3.81,5
+Software,2026-07,10,3.85,5
+Software,2026-08,10,3.88,5
+Software,2026-09,10,3.91,5
+Software,2026-10,10,3.94,5
+Fashion,2026-05,15,4.13,16
+Fashion,2026-06,10,4.13,9
+Fashion,2026-07,10,4.14,5
+Fashion,2026-08,10,4.14,5
+Fashion,2026-09,10,4.15,5
+Fashion,2026-10,10,4.15,5
